@@ -8,6 +8,7 @@ import java.awt.geom.*;//Ellipse2D;
 
 //Förklaring hur JDBC för mysql importeras: https://www.progress.com/blogs/jdbc-tutorial-connecting-to-your-database-using-jdbc
 //Förklaring hur importera Java chart library: https://www.youtube.com/watch?v=AIld6zEeBJ8
+//jljljlj
 
 
 
